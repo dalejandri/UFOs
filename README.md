@@ -1,9 +1,8 @@
 # UFOs
+![](Resources/intro.PNG)
 
 ## Background
 Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
-
-![](Resources/intro.PNG)
 
 This new assignment consists of one technical analysis deliverable and a written report. You will submit the following deliverables:
 
