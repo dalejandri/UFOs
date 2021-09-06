@@ -42,7 +42,7 @@ While the webpage addresses its core functionality requirements there are certai
 
 Some recommendations as follows:
 
--	app.js relies on a fixed dataset that can be outdated is no methods are provisioned to automate the file source.
+-	app.js relies on a fixed dataset that can be outdated if no methods are provisioned to automate the file source.
 -	Adding visual information on how to search & specify criteria.
 -	A “Clear Filter” page button next to the search options will make the life easier to the user.
 -	A one liner with statics resulted from the search will also provide valuable information.
