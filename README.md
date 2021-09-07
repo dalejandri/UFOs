@@ -38,7 +38,7 @@ Search for UFO sightings is quite simple and flexible, we have multiple options 
 
 ## Summary:
 
-While the webpage addresses its core functionality requirements there are certainly improvements that can be made to made it use cleared for the user and/or to maintain accurate and updated information.
+While the webpage addresses its core functionality requirements, there are certainly improvements that can be made to page to make it clearer for the user and/or to maintain accurate and updated information.
 
 Some recommendations as follows:
 
